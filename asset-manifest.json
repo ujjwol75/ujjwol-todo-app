@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ujjwol-todo-app/static/css/main.1f237c09.css",
+    "main.js": "/ujjwol-todo-app/static/js/main.69be9105.js",
+    "index.html": "/ujjwol-todo-app/index.html",
+    "main.1f237c09.css.map": "/ujjwol-todo-app/static/css/main.1f237c09.css.map",
+    "main.69be9105.js.map": "/ujjwol-todo-app/static/js/main.69be9105.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f237c09.css",
+    "static/js/main.69be9105.js"
+  ]
+}
